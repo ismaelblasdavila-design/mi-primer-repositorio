@@ -4,7 +4,7 @@ editor de texto plano para escribir el código fuente.)*/
 #include <stdio.h>
 
 int main() {
-    printf("hello, Git!\n");
+    printf("hello, Git! Welcome GitHub. Happy birthday.\n");
 
     return 0;
 }
