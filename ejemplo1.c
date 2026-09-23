@@ -6,6 +6,7 @@ editor de texto plano para escribir el código fuente.)*/
 int main() {
     printf("hello, GitHub! Goodbye Git\n");
     printf("hello, Git! Welcome GitHub. Happy birthday.\n");
+    printf("Goodbye, Git! Welcome GitHub. Happy birthday.\n");
 
     return 0;
 }
